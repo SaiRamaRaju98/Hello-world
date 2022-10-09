@@ -13,3 +13,5 @@ Dont disturb. He will be dangerous.
 
 Pushing changes to origin repository i.e on main branch or master branch
 
+practing to push code into github from git
+
